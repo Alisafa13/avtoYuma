@@ -1,0 +1,24 @@
+.elements{
+    display: flex;
+    justify-content: space-around;
+}
+.element{
+    border: 1px solid black;
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.all{
+    margin: 20px;
+}
+p{
+    text-align: center;
+}
+.xidmetler-h1{
+    text-align: center;
+    margin-bottom: 20px;
+}

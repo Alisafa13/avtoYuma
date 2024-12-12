@@ -1,0 +1,11 @@
+.element1{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.qiymetler-h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
